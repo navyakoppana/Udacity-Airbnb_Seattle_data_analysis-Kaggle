@@ -1,0 +1,18 @@
+# CRISP-DM Project :A sneak peak into Airbnb Activity in Seattle
+## 1) Business understanding
+#### **Airbnb** is an online marketplace for short term and long term stays and experiences. This dataset describes the listing activity of homestays in Seattle, WA. 
+ It contains the following data:                                                                                                            
+a.Listings, including full descriptions and average review score  
+b.Reviews, including unique id for each reviewer and detailed comments                                                                                  
+c.Calendar, including listing id and the price and availability for that day.
+Using this dataset, I am going to dive in to answer the following questions:
+1. What are the busiest times of the year to visit Seattle?
+2. What are the price variations based on neighborhood ?
+3. What is the vibe of each Seattle neighborhood using listing descriptions?
+#### **Conclusions that can be drawn on business terms**
+
+1. Busiest times of the year can help understand peak seasons and price variation based on neighborhood in Seattle can allow AirBnB to regulate inventory accordingly and can acquire maximum customer satisfaction. During the off season, they can pull customers by optimizing pricing,using flexible cancellation policy,remove extra charges etc.
+
+2. Understanding the vibe of Seattle neighborhoods can be done by **Sentiment analysis** which is often performed on textual data to help businesses monitor stay sentiment in customer feedback and understand customer needs.
+
+## 2) Data Understanding
