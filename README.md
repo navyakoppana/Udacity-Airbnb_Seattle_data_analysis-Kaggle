@@ -48,7 +48,7 @@ Using this dataset, I am going to dive in to answer the following questions and 
     1. **House in Portage Bay** is the highest pricing neighborhood with $340 .
     2. **Apartment in Portage Bay** is the lowest pricing neighborhood with $113.8 in the top5 neighborhoods.
 3. **Roxhill** is the neighbourhood having the highest positive reviews followed by Cedar Park and Pinehurst and  **Broadway,Minor and University District** have the most negative reviews.
-
+4. After modelling the data, I was able to get an r2score of 0.52 on  training and 0.51 on test data sets.Based on the above coefficient analysis, the features that have the most impact on price are bathrooms,bedrooms and some of the amenities like Wireless Intercom,HotTub,Air Conditioning etc.
 
 ## 5. Acknowledgements
 a. The dataset was taken from Kaggle <a href="https://www.kaggle.com/datasets/airbnb/seattle?resource=download"></a>
