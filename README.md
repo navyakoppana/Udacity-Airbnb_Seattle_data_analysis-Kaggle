@@ -52,4 +52,4 @@ Using this dataset, I am going to dive in to answer the following questions and 
 
 ## 5. Acknowledgements
 a. The dataset was taken from Kaggle <a href="https://www.kaggle.com/datasets/airbnb/seattle?resource=download"></a>
-b. Sentiment Analyzer and polarity scores are implemented from <a href="https://www.analyticsvidhya.com/blog/2021/12/different-methods-for-calculating-sentiment-score-of-text/"><different-methods-for-calculating-sentiment-score-of-text></a>
+b. Sentiment Analyzer and polarity scores are implemented from <a href="https://www.analyticsvidhya.com/blog/2021/12/different-methods-for-calculating-sentiment-score-of-text/"><Sentiment_Analysis></a>
